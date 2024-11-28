@@ -48,7 +48,7 @@ r2=r2_score(y_test,y_pred)
 print("R2 score:",r2)
 dt.predict([[5,6]])
 
-```
+
 
 
 
