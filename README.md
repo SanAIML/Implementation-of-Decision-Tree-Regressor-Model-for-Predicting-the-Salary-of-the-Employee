@@ -21,6 +21,7 @@ Developed by: Sanchita Sandeep
 RegisterNumber:  24900172
 */
 ```
+```
 import pandas as pd
 data=pd.read_csv("C:\\Users\\admin\\Downloads\\Salary.csv")
 data.head()
@@ -47,7 +48,7 @@ from sklearn.metrics import r2_score
 r2=r2_score(y_test,y_pred)
 print("R2 score:",r2)
 dt.predict([[5,6]])
-
+```
 
 
 
